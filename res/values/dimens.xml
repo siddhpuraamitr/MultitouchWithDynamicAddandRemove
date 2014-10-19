@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16.0dip</dimen>
+    <dimen name="activity_vertical_margin">16.0dip</dimen>
+    <dimen name="extra_small">5.0dip</dimen>
+    <dimen name="small">7.0dip</dimen>
+    <dimen name="medium">10.0dip</dimen>
+    <dimen name="medium_text">12.0dip</dimen>
+    <dimen name="large">15.0dip</dimen>
+    <dimen name="extra_large">20.0dip</dimen>
+    <dimen name="extra_extra_large">140.0dip</dimen>
+    <dimen name="item_size_1">70.0dip</dimen>
+</resources>
